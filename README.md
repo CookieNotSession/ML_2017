@@ -1,6 +1,5 @@
 # ML_2017
 Intelligence-Oriented Management Decision Systems in NCTU Fall , 2017.
-
 ****
-
-Test
+## Introduction
+This is a course about machine learning in NCTU Fall,2017.
