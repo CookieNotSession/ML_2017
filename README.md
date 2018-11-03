@@ -2,7 +2,7 @@
 Intelligence-Oriented Management Decision Systems in NCTU Fall , 2017.
 
 ## Introduction
-This is a course about machine learning in NCTU Fall,2017.
+This is a course about machine learning application **(Financial forecast , Image Processing , Algorithm Implementation)** in NCTU Fall,2017.
 
 |Date|Course Number|Content
 |---|---|---
