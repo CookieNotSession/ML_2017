@@ -8,3 +8,4 @@ This is a course about machine learning application **(Financial forecast , Imag
 |---|---|---
 |9/20|Course1 | Using Python Language to solve some UVA problems. Let't me know how to program in Python and use the function or lib of Python language.
 |9/27|Course2 | Using matplotlib to draw **Monte Carlo methods** , **Black-Scholes** , **Bi-section method** to simulate the stock price.
+|10/11|Course3 | Understanding some basic theory like **Bayes's Rule** , **Classification Trees (ID3,CART,C4.5)** and implement the Decision Tree Algorithm using Python (Dataset : Playtennis.txt & Iris )|
