@@ -1,4 +1,5 @@
 # ML_2017
+[![Travis](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
 Intelligence-Oriented Management Decision Systems in NCTU Fall , 2017.
 
 ## Introduction
