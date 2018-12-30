@@ -1,4 +1,10 @@
 [![Travis](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
+
+[![npm](https://img.shields.io/npm/dt/brain.js.svg?style=flat-square)](https://npmjs.com/package/brain.js)
+[![Backers on Open Collective](https://opencollective.com/brainjs/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/brainjs/sponsors/badge.svg)](#sponsors)
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brain-js/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Slack](https://slack.bri.im/badge.svg)](https://slack.bri.im)
+
 # ML_2017
 Intelligence-Oriented Management Decision Systems in NCTU Fall , 2017.
 
